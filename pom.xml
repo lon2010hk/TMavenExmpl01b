@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>internal.nicxnet</groupId>
-    <artifactId>TMavenExmpl01</artifactId>
+    <artifactId>TMavenExmpl01b</artifactId>
     <version>3.0</version>
     <packaging>war</packaging>
 
